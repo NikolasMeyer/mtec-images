@@ -1,7 +1,7 @@
 {
-    "mtec/images",
+    "name": "mtec/images",
     "license": "GPL3",
-    "description": "MTEC Image optimization"
+    "description": "MTEC Image optimization",
     "authors":[
         {
             "name":"Nikolas Meyer",
