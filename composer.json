@@ -1,0 +1,13 @@
+{
+    "mtec/images",
+    "license": "GPL3",
+    "description": "MTEC Image optimization"
+    "authors":[
+        {
+            "name":"Nikolas Meyer",
+            "email":"dev@nikolas-meyer.de",
+            "homepage":"http://www.nikolas-meyer.de/",
+            "role": "Developer"
+        }
+    ]
+}
